@@ -1,0 +1,25 @@
+﻿Build started 03.09.2020 21:19:40.
+Logging verbosity is set to: Normal.     1>Project "D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\LPLab14\LPLab14.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\LPLab14.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Log.cpp
+         Log.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\Debug\LPLab14.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\Debug\LPLab14.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\Debug\LPLab14.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\FST.obj
+         Debug\In.obj
+         Debug\Log.obj
+         Debug\LPLab14.obj
+         Debug\Parm.obj
+         LPLab14.vcxproj -> D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\Debug\LPLab14.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\LPLab14.tlog\unsuccessfulbuild".
+         Touching "Debug\LPLab14.tlog\LPLab14.lastbuildstate".
+     1>Done Building Project "D:\лабы\Лабы\ЯП\ЯП2k1s\projects\LPLab14\LPLab14\LPLab14.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.49
